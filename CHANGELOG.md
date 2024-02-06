@@ -1,5 +1,7 @@
 # Changelog
 
+- Fixed #372: malformed empty multipart request on Android
+
 - Fixed #359: memory leakage leads to app crashes on Android
 
 - Fixed #345: empty file names are not handled correctly (thanks ikosta)
