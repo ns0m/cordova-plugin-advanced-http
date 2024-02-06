@@ -1,9 +1,10 @@
 # Changelog
 
-- Feature #158: support removing headers which were previously set via "setHeader"
+- Fixed #359: memory leakage leads to app crashes on Android
 
 - Fixed #345: empty file names are not handled correctly (thanks ikosta)
-- Fixed #359: memory leakage leads to app crashes on Android
+
+- Feature #158: support removing headers which were previously set via "setHeader"
 
 ## 2.5.1
 
