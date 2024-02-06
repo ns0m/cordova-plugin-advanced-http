@@ -2,6 +2,8 @@
 
 - Feature #158: support removing headers which were previously set via "setHeader"
 
+- Fixed #345: empty file names are not handled correctly (thanks ikosta)
+
 ## 2.5.1
 
 - Fixed #334: empty JSON response triggers error even though request is successful (thanks antikalk)
