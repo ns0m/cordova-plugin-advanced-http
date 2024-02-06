@@ -1,5 +1,7 @@
 # Changelog
 
+- Feature #451: expose response object on `downloadFile()` (thanks to @MobisysGmbH)
+
 - Fixed #372: malformed empty multipart request on Android
 - Fixed #399: memory leakage leads to app crashes on iOS (thanks avargaskun)
 
