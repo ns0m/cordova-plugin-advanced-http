@@ -1,5 +1,8 @@
 # Changelog
 
+- Fixed #429: intermediate CA certs are not respected on iOS when using client certs (thanks pavrda)
+- Fixed #441: sensible data can be cached in cache.db on iOS (thanks dtarnawsky)
+
 - Feature #451: expose response object on `downloadFile()` (thanks to @MobisysGmbH)
 
 - Fixed #372: malformed empty multipart request on Android
